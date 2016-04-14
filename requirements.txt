@@ -1,2 +1,4 @@
 Flask==0.10.1
 SQLAlchemy==1.0.12
+Flask-SQLAlchemy==0.16
+passlib==1.6.2
